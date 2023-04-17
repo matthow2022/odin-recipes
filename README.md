@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a recipe website using HTML only. Once the project is finished, I will be able to demonstrate setting up a HTML boilerplate, create headings, list, linking to other pages, and showing images.
